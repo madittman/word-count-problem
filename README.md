@@ -6,7 +6,7 @@ Explain Driver, Worker...
 
 ## Usage
 
-Use [Python3.9](https://www.python.org/downloads/release/python-390/) to run the files `start_driver.py` or `start_worker.py`.
+Use [Python3.6](https://www.python.org/downloads/release/python-360/) to run the files `start_driver.py` or `start_worker.py`.
 
 ...
 Number of MapTasks cannot be higher than number of input files
